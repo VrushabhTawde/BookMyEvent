@@ -18,7 +18,7 @@ MySQL is a popular database management system used to store and manage the websi
 In addition to using HTML, CSS, PHP, and MySQL, Book My Event also utilizes Amazon's cloud computing services, specifically Amazon Elastic Compute Cloud (EC2), to host the website and make it publicly accessible.
 
 EC2 is a web service that provides resizable compute capacity in the cloud. It allows businesses and individuals to quickly and easily create and launch virtual machines, or instances, in the cloud, which can be used to host web applications like Book My Event.By using EC2, Book My Event can host the website in a highly scalable and flexible manner. 
-
+video : https://drive.google.com/uc?id=1sky5mzPGnQAZ3UrWoFBdmsvqsJlkEnjK&export=download
 #Results
 home:
 ![image](https://user-images.githubusercontent.com/91945151/232308838-26e36cfc-d35c-4899-9011-89887e54aa00.png)
