@@ -4,7 +4,6 @@ Book My Event is an online platform that offers a comprehensive range of events 
 
 Once a user selects an event, they can view detailed information about the event. which can help them make an informed decision about whether to attend.
 
-
 For event organizers, Book My Event offers a platform to promote their events and reach a wider audience. 
 
 
@@ -19,4 +18,22 @@ MySQL is a popular database management system used to store and manage the websi
 In addition to using HTML, CSS, PHP, and MySQL, Book My Event also utilizes Amazon's cloud computing services, specifically Amazon Elastic Compute Cloud (EC2), to host the website and make it publicly accessible.
 
 EC2 is a web service that provides resizable compute capacity in the cloud. It allows businesses and individuals to quickly and easily create and launch virtual machines, or instances, in the cloud, which can be used to host web applications like Book My Event.By using EC2, Book My Event can host the website in a highly scalable and flexible manner. 
+
+#Results
+home:
+![image](https://user-images.githubusercontent.com/91945151/232308838-26e36cfc-d35c-4899-9011-89887e54aa00.png)
+Events Catalouge:
+![image](https://user-images.githubusercontent.com/91945151/232308860-0d4967e3-9402-4d72-ab9b-692df087f73e.png)
+Register for Events:
+![image](https://user-images.githubusercontent.com/91945151/232308896-60051ccf-c4f5-40bf-ac5c-bd799ebc22b6.png)
+![image](https://user-images.githubusercontent.com/91945151/232308901-40b81bb9-e835-48ba-84a8-ea675e576790.png)
+Xampp server Database:
+![image](https://user-images.githubusercontent.com/91945151/232308923-587ba614-9f1f-467e-9994-7299ec10742f.png)
+
+Code:
+![image](https://user-images.githubusercontent.com/91945151/232308930-5b21193d-45cc-4c3a-8619-b4556ef89546.png)
+
+
+
+
 
