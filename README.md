@@ -38,10 +38,10 @@ Code:
 
 **Contributors:**
 
-<!-- <a href = "https://github.com/VrushabhTawde/"> -->
- [<img src="https://github.com/VrushabhTawde.png" width="60px;"/><br /><sub><ahref="https://github.com/VrushabhTawde"> {{VrushabhTawde}}</a></sub>]
+<a href="https://github.com/VrushabhTawde/BookMyEvent/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" />
+</a>
 
-<!-- </a> -->
-
+Made with [contrib.rocks](https://contrib.rocks).
 
 
