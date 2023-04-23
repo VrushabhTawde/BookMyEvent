@@ -25,15 +25,21 @@ EC2 is a web service that provides resizable compute capacity in the cloud. It a
 home:
 <img src="https://user-images.githubusercontent.com/91945151/232308838-26e36cfc-d35c-4899-9011-89887e54aa00.png" alt="logo" width="750" height="auto" />
 <!-- ![image](https://user-images.githubusercontent.com/91945151/232308838-26e36cfc-d35c-4899-9011-89887e54aa00.png) -->
+
 Events Catalouge:
-![image](https://user-images.githubusercontent.com/91945151/232308860-0d4967e3-9402-4d72-ab9b-692df087f73e.png)
+<img src="https://user-images.githubusercontent.com/91945151/232308860-0d4967e3-9402-4d72-ab9b-692df087f73e.png" alt="logo" width="750" height="auto" />
+
 Register for Events:
-![image](https://user-images.githubusercontent.com/91945151/232308896-60051ccf-c4f5-40bf-ac5c-bd799ebc22b6.png)
-![image](https://user-images.githubusercontent.com/91945151/232308901-40b81bb9-e835-48ba-84a8-ea675e576790.png)
+<img src="https://user-images.githubusercontent.com/91945151/232308896-60051ccf-c4f5-40bf-ac5c-bd799ebc22b6.png" alt="logo" width="750" height="auto" />
+
+<img src="https://user-images.githubusercontent.com/91945151/232308901-40b81bb9-e835-48ba-84a8-ea675e576790.png" alt="logo" width="750" height="auto" />
+
 Xampp server Database:
-![image](https://user-images.githubusercontent.com/91945151/232308923-587ba614-9f1f-467e-9994-7299ec10742f.png)
+<img src="https://user-images.githubusercontent.com/91945151/232308923-587ba614-9f1f-467e-9994-7299ec10742f.png" alt="logo" width="750" height="auto" />
+
 Code:
-![image](https://user-images.githubusercontent.com/91945151/232308930-5b21193d-45cc-4c3a-8619-b4556ef89546.png)
+<img src="https://user-images.githubusercontent.com/91945151/232308930-5b21193d-45cc-4c3a-8619-b4556ef89546.png" alt="logo" width="750" height="auto" />
+
 
 <!-- Contributing -->
 ## :wave: Contributors
