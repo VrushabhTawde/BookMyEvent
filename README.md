@@ -39,7 +39,7 @@ Code:
 
 
 <a href = "https://github.com/VrushabhTawde/">
- [<img src="https://github.com/{{ contributor }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>]
+ [<img src="https://github.com/VrushabhTawde.png" width="60px;"/><br /><sub><ahref="https://github.com/VrushabhTawde">{{ contributor }}</a></sub>]
 
 </a>
 
