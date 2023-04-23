@@ -23,7 +23,7 @@ EC2 is a web service that provides resizable compute capacity in the cloud. It a
 
 #Results
 home:
-<img src="https://user-images.githubusercontent.com/91945151/232308838-26e36cfc-d35c-4899-9011-89887e54aa00.png" alt="logo" width="150" height="auto" />
+<img src="https://user-images.githubusercontent.com/91945151/232308838-26e36cfc-d35c-4899-9011-89887e54aa00.png" alt="logo" width="350" height="auto" />
 <!-- ![image](https://user-images.githubusercontent.com/91945151/232308838-26e36cfc-d35c-4899-9011-89887e54aa00.png) -->
 Events Catalouge:
 ![image](https://user-images.githubusercontent.com/91945151/232308860-0d4967e3-9402-4d72-ab9b-692df087f73e.png)
