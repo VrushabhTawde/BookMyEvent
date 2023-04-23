@@ -42,9 +42,12 @@ Code:
   <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" />
 </a>
 
-<a href="https://github.com/varunmh28/helloworld/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=varunmh28/helloworld" />
+<a href="https://github.com/Shruti-Koppisetty/Shruti-Koppisetty/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Shruti-Koppisetty/Shruti-Koppisetty" />
+</a>
+<a href="https://github.com/jasvinderxrajput/profile/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jasvinderxrajput/profile" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
 
