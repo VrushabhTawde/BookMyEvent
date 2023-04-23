@@ -31,12 +31,13 @@ Register for Events:
 ![image](https://user-images.githubusercontent.com/91945151/232308901-40b81bb9-e835-48ba-84a8-ea675e576790.png)
 Xampp server Database:
 ![image](https://user-images.githubusercontent.com/91945151/232308923-587ba614-9f1f-467e-9994-7299ec10742f.png)
-
 Code:
 ![image](https://user-images.githubusercontent.com/91945151/232308930-5b21193d-45cc-4c3a-8619-b4556ef89546.png)
 
+<!-- Contributing -->
+## :wave: Contributing
 
-**Contributors:**
+
 
 <a href="https://github.com/VrushabhTawde/BookMyEvent/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" />
