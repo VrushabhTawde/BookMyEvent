@@ -38,7 +38,7 @@ Code:
 
 
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+<a href = "https://github.com/VrushabhTawde/">
   <img src = "https://contrib.rocks/image?repo =VrushabhTawde/BookMyEvent"/>
 </a>
 
