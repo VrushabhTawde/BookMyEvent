@@ -39,7 +39,7 @@ Code:
 
 
 <a href = "https://github.com/VrushabhTawde/">
-  <img src = "https://avatars.githubusercontent.com/u/91945151?s=400&u=38ec092f10c69440dfeaf05b17376a0f3360e660&v=4"/>
+  <img src = "https://avatars.githubusercontent.com/u/91945151?s=96&v=4"/>
 </a>
 
 
