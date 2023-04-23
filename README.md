@@ -36,10 +36,10 @@ Code:
 ![image](https://user-images.githubusercontent.com/91945151/232308930-5b21193d-45cc-4c3a-8619-b4556ef89546.png)
 
 
-
+**Contributors:**
 
 <!-- <a href = "https://github.com/VrushabhTawde/"> -->
- [<img src="https://github.com/VrushabhTawde.png" width="60px;"/><br /><sub><ahref="https://github.com/VrushabhTawde"> VrushabhTawde</a></sub>]
+ [<img src="https://github.com/VrushabhTawde.png" width="60px;"/><br /><sub><ahref="https://github.com/VrushabhTawde"> {{VrushabhTawde}}</a></sub>]
 
 <!-- </a> -->
 
