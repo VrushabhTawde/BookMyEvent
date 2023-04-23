@@ -23,7 +23,8 @@ EC2 is a web service that provides resizable compute capacity in the cloud. It a
 
 #Results
 home:
-![image](https://user-images.githubusercontent.com/91945151/232308838-26e36cfc-d35c-4899-9011-89887e54aa00.png)
+<img src="https://user-images.githubusercontent.com/91945151/232308838-26e36cfc-d35c-4899-9011-89887e54aa00.png" alt="logo" width="150" height="auto" />
+<!-- ![image](https://user-images.githubusercontent.com/91945151/232308838-26e36cfc-d35c-4899-9011-89887e54aa00.png) -->
 Events Catalouge:
 ![image](https://user-images.githubusercontent.com/91945151/232308860-0d4967e3-9402-4d72-ab9b-692df087f73e.png)
 Register for Events:
@@ -40,8 +41,8 @@ Code:
 
 
 <a href="https://github.com/VrushabhTawde/BookMyEvent/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" alt="logo" width="150" height="auto" />
-<!--   <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" /> -->
+<!--   <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" alt="logo" width="150" height="auto" /> -->
+  <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" />
 </a>
 
 <a href="https://github.com/varunmh28/Heart-Disease-Prediction/graphs/contributors">
