@@ -48,7 +48,7 @@ Code:
 
 <a href="https://github.com/VrushabhTawde/BookMyEvent/graphs/contributors">
 <!--   <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" alt="logo" width="150" height="auto" /> -->
-  <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent"width="50"height="auto"/>
+  <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent"width="90"height="auto"/>
 
  
 </a>
