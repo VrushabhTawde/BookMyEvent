@@ -40,7 +40,8 @@ Code:
 
 
 <a href="https://github.com/VrushabhTawde/BookMyEvent/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" />
+  <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" alt="logo" width="200" height="auto" />
+<!--   <img src="https://contrib.rocks/image?repo=VrushabhTawde/BookMyEvent" /> -->
 </a>
 
 <a href="https://github.com/varunmh28/Heart-Disease-Prediction/graphs/contributors">
