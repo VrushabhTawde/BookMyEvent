@@ -35,7 +35,7 @@ Code:
 ![image](https://user-images.githubusercontent.com/91945151/232308930-5b21193d-45cc-4c3a-8619-b4556ef89546.png)
 
 <!-- Contributing -->
-## :wave: Contributing
+## :wave: Contributors
 
 
 
